@@ -1,0 +1,11 @@
+BookID,BookName,BookAuthor,BookISBN,BookDescription,LocationID
+1,Good to Great,Jim Collins ,978-0066620992,Strategic Business Planning,1
+2,Getting Things Done,David Allen,978-0143126560,Personal Time Management,7
+3,Managing a Professional Service Organization,David H. Maister,978-0684834313,Business & Money,19
+4,Enterprise Architecture as Business Strategy,Jeanne W. Ross,978-1591398394,Information Management,
+5,12 Essential kills for Software Architects,Dave Hendrickson,978-0321717290,Software Dev,
+6,A Passion for Leadership A,Robert M. Gates,978-0307959492,Government Management,
+7,Humans of New York: Stories,Brandon Stanton,978-1250058904,Photography & Video,36
+8,Adult All-In-One Course: Lesson-Theory-Technic: Level 1,William A. Palmer,978-0882848181,Music Theory Piano,45
+9,The Geography of Genius Valley 1,Eric Weiner,978-1451691658,Historical Geography,
+10,When Breath Becomes Air,Paul Kalanithi,978-0812988406,Medical Professional Biographies,60
